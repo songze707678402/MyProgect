@@ -5,4 +5,6 @@ package view.activity;
  */
 
 public class BaseActivity {
+
+    private int anInt;
 }
